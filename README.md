@@ -3,4 +3,4 @@ CORE-ReID V2: Comprehensive Framework with Expanded Backbone and Enhanced Accura
 
 We will publish the source code once the paper got accepted.
 
-Our project page: (updating)
+Our project page: [(CORE-ReID V2)](https://trinhquocnguyen.github.io/core-reid-v2-homepage/)
