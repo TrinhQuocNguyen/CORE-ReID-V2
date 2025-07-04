@@ -5,11 +5,11 @@
 <img src="resource\people_dance.gif" height="270" /> <img src="resource\car_dance.gif" height="270" />
 
 - ❤️Our project page: https://trinhquocnguyen.github.io/core-reid-v2-homepage/
-- ❤️Paper: XXXXXXXXXXXXX
+- ❤️Paper: https://www.mdpi.com/3042-5999/1/1/4
 - ❤️About Trinh: https://www.linkedin.com/in/trinh-quoc-nguyen/
 
 
-**[2025/07/03: Good News!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)    
+**[2025/07/04: Good News!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)    
 
 * Our paper got accepted by MDPI Journal.
 
