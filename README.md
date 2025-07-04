@@ -84,13 +84,16 @@ Watch the Tutorial:
 Please cite our paper if you find it useful
 ```
 @article{,
-  author    = {Nguyen TQ, Prima ODA, Hotta K},
-  title     = {CORE-ReID: Comprehensive Optimization and Refinement through Ensemble Fusion in Domain Adaptation for Person Re-Identification.},
-  journal   = {Software},
-  doi       = {https://doi.org/10.3390/software3020012},
-  volume    = {3},
-  pages     = {227-249},
-  year      = {2024},
+  author    = {Nguyen, Trinh Quoc and Prima, Oky Dicky Ardiansyah and Irfan, Syahid Al and Purnomo, Hindriyanto Dwi and Tanone, Radius},
+  title     = {CORE-ReID V2: Advancing the Domain Adaptation for Object Re-Identification with Optimized Training and Ensemble Fusion},
+  journal   = {AI Sensors},
+  doi       = {10.3390/aisens1010004},
+  volume    = {1},
+  number    = {1},
+  article-number = {4},
+  year      = {2025},
+  issn      = {3042-5999},
+  url       = {https://www.mdpi.com/3042-5999/1/1/4},
 }
 ```
 ## Acknowledgement
