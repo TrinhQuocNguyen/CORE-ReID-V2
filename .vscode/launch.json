@@ -1,0 +1,73 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Save feature maps",
+            "type": "python",
+            // change the directory to your env variale
+            "python": "/home/ccvn/anaconda3/envs/trinh_python38/bin/python",
+            "request": "launch",
+<<<<<<< HEAD
+            "program": "${workspaceFolder}/model_test.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--dataset-target", "msmt17",
+                "--data-dir", "/home/ccvn/Workspace/trinh/data/reid",
+                "--batch-size", "4",
+                "--arch","resnet101",
+                "--num-classes", "2500",
+                "--resume","logs/duke2msmt_ECAB_BFMN/target_fine_tuning_2500/model_best.pth.tar",
+=======
+            "program": "${workspaceFolder}/model_save_feature_maps.py",
+            "console": "integratedTerminal",
+            "args": [
+                "-dt", "market",
+                "--data-dir", "/mnt/AIProjects/trinh/DATA/reid",
+                "--resume", "logs/cuhk03np2market/target_fine_tuning_900/model_best.pth.tar",
+                "--num-classes", "900",
+                "--arch", "resnet101",
+                "--batch-size", "1",
+>>>>>>> 348c987 (update local 170)
+            ],
+        },
+        // {
+        //     "name": "Python: Save feature maps",
+        //     "type": "python",
+        //     // change the directory to your env variale
+        //     "python": "/home/dl-box/anaconda3/envs/trinh_python38/bin/python",
+        //     "request": "launch",
+        //     "program": "${workspaceFolder}/model_save_feature_maps.py",
+        //     "console": "integratedTerminal",
+        //     "args": [
+        //         "--dataset-target", "market",
+        //         "--data-dir", "/mnt/AIProjects/trinh/DATA/reid",
+        //         "--logs-dir", "",
+        //         "--batch-size", "128",
+        //         "--arch","resnet50",
+        //         "--num-classes", "700",
+        //         "--resume","logs/duke2market_merge/target_fine_tuning/model_best.pth.tar",
+        //     ],
+        // },
+        {
+            "name": "Python: Target Train on Market",
+            // "type": "python",
+            // // change the directory to your env variale
+            // "python": "/home/dl-box/anaconda3/envs/yolov7_dsort/bin/python",
+            // "request": "launch",
+            // "program": "${workspaceFolder}/target_train.py",
+            // "console": "integratedTerminal",
+            // "args": [
+            //     "--dataset-target", "market",
+            //     "--data-dir", "/mnt/AIProjects/trinh/DATA/reid",
+            //     "--logs-dir", "logs/duke2market_merge/target_fine_tuning",
+            //     "--initial-weights", "logs/duke2market_merge/source_pretraining",
+            //     "--batch-size", "128",
+            // ],
+         
+        }
+        
+    ]
+}

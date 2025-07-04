@@ -1,0 +1,6 @@
+/logs
+/LF2
+**/__pycache__/
+/LF2_pretrained/
+/act_maps/
+/feature_maps/
