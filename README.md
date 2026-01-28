@@ -23,10 +23,9 @@
 - ❤️About Trinh: https://www.linkedin.com/in/trinh-quoc-nguyen/
 
 
+- **[2026/01/28: Medium article is publised!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)
+    * Please check our Medium article for explanation.
 
-**[2025/07/04: Good News!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)    
-
-* Our paper got accepted by MDPI Journal.
 
 ## TODO
 - [X] Explain step by step how to run the source code with tutorial videos
@@ -37,7 +36,8 @@
 ## Updates
 - **[2026/01/28: Medium article is publised!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)
     * Please check our Medium article for explanation.
-    
+- **[2025/07/04: Good News!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)    
+    * Our paper got accepted by MDPI Journal.
 - **[2025/07/03: Source code is released!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)
     * The first version of source code has been initialized.
 
