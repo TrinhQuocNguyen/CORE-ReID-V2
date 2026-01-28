@@ -18,8 +18,10 @@
 <img src="resource\people_dance.gif" height="270" /> <img src="resource\car_dance.gif" height="270" />
 
 - ❤️Our project page: https://trinhquocnguyen.github.io/core-reid-v2-homepage/
+- ❤️Medium: https://medium.com/@nguyenquoctrinhctt3/core-reid-v2-teaching-ai-to-recognize-people-and-vehicles-across-different-cameras-d235ccbbb60c
 - ❤️Paper: https://www.mdpi.com/3042-5999/1/1/4
 - ❤️About Trinh: https://www.linkedin.com/in/trinh-quoc-nguyen/
+
 
 
 **[2025/07/04: Good News!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)    
@@ -33,7 +35,10 @@
 - [X] Initialize the source code
 
 ## Updates
-- **[2024/07/03: Source code is released!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)
+- **[2026/01/28: Medium article is publised!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)
+    * Please check our Medium article for explanation.
+    
+- **[2025/07/03: Source code is released!]** ![new](https://img.alicdn.com/imgextra/i4/O1CN01kUiDtl1HVxN6G56vN_!!6000000000764-2-tps-43-19.png)
     * The first version of source code has been initialized.
 
 ## (I) Installation
